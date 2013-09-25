@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AsyncTask - Ejemplo de download</string>
+    <string name="btn_start">Iniciar descarga</string>
+    <string name="btn_finish">Descargar nuevamente</string>
+    <string name="btn_cancel">Cancelar descarga</string>
+
+</resources>
